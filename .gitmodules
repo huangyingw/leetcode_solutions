@@ -15,7 +15,7 @@
     url = git@github.com:huangyingw/Leetcode-Python.git 
 [submodule "jakehoare/leetcode"]
     path = jakehoare/leetcode
-    url = git@github.com:huangyingw/leetcode.git 
+    url = git@github.com:huangyingw/jakehoare_leetcode.git 
 [submodule "qiyuangong/leetcode"]
     path = qiyuangong/leetcode
-    url = git@github.com:huangyingw/leetcode.git 
+    url = git@github.com:huangyingw/qiyuangong_leetcode.git 
