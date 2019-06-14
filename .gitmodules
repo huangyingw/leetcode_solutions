@@ -1,6 +1,6 @@
 [submodule "EachenKuang/LeetCode"]
     path = EachenKuang/LeetCode
-    url = git@github.com:huangyingw/LeetCode.git 
+    url = git@github.com:huangyingw/eachenkuang_leetcode.git 
 [submodule "Garvit244/Leetcode"]
     path = Garvit244/Leetcode
     url = git@github.com:huangyingw/Garvit244_Leetcode.git 
