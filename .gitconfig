@@ -14,3 +14,5 @@
 [gsync]
     remote = origin
     branch = master
+[push]
+    remote = origin
