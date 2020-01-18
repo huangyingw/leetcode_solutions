@@ -3,6 +3,7 @@ SCRIPT=$(realpath "$0")
 SCRIPTPATH=$(dirname "$SCRIPT")
 cd "$SCRIPTPATH"
 
+~/loadrc/gitrc/g.sh
 find ~/.lc -type f -name problems.json -delete
 find . -type f -name "[0-9]*.py" | while read ss
 do
